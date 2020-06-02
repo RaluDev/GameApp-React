@@ -1,0 +1,13 @@
+.post {
+  background-color: aqua;
+  border-radius: 2px;
+  /* width: 400px; */
+  height: 350px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.image {
+width: 200px;
+height: 150px;
+}
